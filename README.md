@@ -7,7 +7,7 @@
 
 ![dice-game-player1-wins](https://github.com/lucas-de-souza29/SimpleDiceGame/assets/33586128/61fe5f1d-2d6e-4036-a91a-2ff07b4e02a2)
 
-<em><strong>Player 2 wins!</strong></em>
+<em><strong>Player 2 Wins!</strong></em>
 
 ![dice-game-player2-wins](https://github.com/lucas-de-souza29/SimpleDiceGame/assets/33586128/f8d9fbee-7cac-489d-8e1e-29fae5af5bdf)
 
